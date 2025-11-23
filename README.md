@@ -1,1 +1,1 @@
-# Administraci-nGym
+# AdministracionGym
