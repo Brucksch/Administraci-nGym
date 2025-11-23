@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# OS
+.DS_Store
+
+# Java/Maven
+*.class
+dependency-reduced-pom.xml
